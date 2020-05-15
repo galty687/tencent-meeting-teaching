@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_end_a_meeting">
+    <title>如何结束会议</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击右下角的红色结束会议按钮</cmd>
+            </step>
+            <step>
+                <cmd>再次确认离开</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
