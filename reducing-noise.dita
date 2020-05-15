@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_tk1_rsr_rlb">
+    <title>什么是降噪</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>降噪是一种主动的去除噪声的方式，可以提升语言质量。</p>
+    </conbody>
+</concept>
