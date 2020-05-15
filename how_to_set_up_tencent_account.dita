@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_set_up_tencent_account">
+    <title>如何创建腾讯会议账号</title>
+    <shortdesc>介绍如何创建腾讯会议的账号。</shortdesc>
+    <taskbody>
+        <context>新用户注册腾讯会议的流程<p/></context>
+        <steps>
+            <step>
+                <cmd>启动腾讯会议软件</cmd>
+            </step>
+            <step>
+                <cmd>点击右小角的<uicontrol>新用户注册</uicontrol>按钮</cmd>
+            </step>
+            <step>
+                <cmd>在弹出的注册页面中进行注册</cmd>
+                <stepresult>受到腾讯的确认推送即为注册成功</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
