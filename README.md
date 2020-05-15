@@ -13,6 +13,6 @@
 
 ## 小组成员
 
-- Member A
-- Member B
+- galty687
+- galty688
 - Member C
