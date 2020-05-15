@@ -8,7 +8,8 @@
 
 - oXygen XML
 - Github
-- Uxpressia 
+- Uxpressia
+- Visual Studio Code
 
 ## 小组成员
 
