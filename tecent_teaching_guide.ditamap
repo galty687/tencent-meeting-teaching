@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>腾讯会议教学指南</title>
+    <topicref href="what_is_virtual_background.dita"/>
+    <topicref href="how_to_set_up_tencent_account.dita"/>
+    <topicref href="reducing-noise.dita"/>
+    <topicref href="improving_your_voice.dita"/>
+    <topicref href="how_to_end_a_meeting.dita"/>
+</map>
