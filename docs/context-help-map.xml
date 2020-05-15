@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="what_is_virtual_background"
+               path="what_is_virtual_background.html"/>
+   <appContext helpID="how_to_set_up_tencent_account"
+               path="how_to_set_up_tencent_account.html"/>
+   <appContext helpID="concept_tk1_rsr_rlb" path="reducing-noise.html"/>
+   <appContext helpID="improving_your_voice" path="improving_your_voice.html"/>
+   <appContext helpID="how_to_end_a_meeting" path="how_to_end_a_meeting.html"/>
+</map>
